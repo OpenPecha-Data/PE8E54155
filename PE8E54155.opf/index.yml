@@ -1,0 +1,56 @@
+id: 5428365348914dd5b62a25b53523ef74
+annotation_type: index
+revision: '00001'
+annotations:
+  674d41e3606e4f6ebb6bc9db757e3d0d:
+    work_id: JTSZ1
+    parts:
+      a2f396c2fc5e4c08ab8772b4473cbbd4:
+        work_id: JTSZ1-1
+        span:
+        - vol: 1
+          start: 0
+          end: 1544
+    span:
+    - vol: 1
+      start: 0
+      end: 1544
+  8b679df4af7d4214a1a0b09908ae1b33:
+    work_id: JTSZ6
+    parts:
+      5fa6233aba234b548fd9eea2649fdea0:
+        work_id: JTSZ6-2
+        span:
+        - vol: 2
+          start: 0
+          end: 52
+    span:
+    - vol: 2
+      start: 0
+      end: 52
+  2a34537679ae4556a9a2f49517cabd33:
+    work_id: JTSZ14
+    parts:
+      e8c0f0de0cc448b9a717953474a1e5f2:
+        work_id: JTSZ14-3
+        span:
+        - vol: 3
+          start: 0
+          end: 1819
+    span:
+    - vol: 3
+      start: 0
+      end: 1819
+  08ecde80a7f542e38eb30712a132c2bb:
+    work_id: JTSZ58
+    parts:
+      b145de7b7c59412f9320d5ee444482e8:
+        work_id: JTSZ58-4
+        span:
+        - vol: 4
+          start: 0
+          end: 1232
+    span:
+    - vol: 4
+      start: 0
+      end: 1232
